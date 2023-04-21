@@ -1,39 +1,40 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Remix Icons
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+Remix icon's pack for flutter
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+  <div>
+    <a title="pub.dev" href="https://img.shields.io/pub/v/remix_icons.svg?style=flat-square&include_prereleases&color=00C853" />
+    </a>
+    <a title="GitHub License" href="https://github.com/Arkanum-Corporation/remix_icons_flutter_pub_package/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/stevenosse/flutter_hicons?style=flat-square&color=f12253" />
+    </a>
+  </div>
+  <br/>
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+![preview](https://repository-images.githubusercontent.com/161979323/ce941d00-7ee3-11e9-8ed2-6a3770b22cd8)
 
-## Features
+Package implements to facilitate the use of the [remixicons](https://remixicon.com) into your flutter app
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+## 📚 Getting Started
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
+```shell
+$ flutter pub add remix_icons
 ```
 
-## Additional information
+## 📚 Usage
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+```dart
+import 'package:remix_icons/remix_icons.dart';
+```
+
+```dart
+const Icon(RemixIcons.user)
+```
+
+## Credits
+ - Designer : xiaochunjimmy (jimmy@remixdesign.cn.) 
+
+
+## Contribute
+
+Do you want to improve the package ? Contribute on the [repo](https://github.com/Arkanum-Corporation/remix_icons_flutter_pub_package) ⭐️
