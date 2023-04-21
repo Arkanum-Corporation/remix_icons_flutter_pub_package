@@ -15,10 +15,10 @@ Remix icon's pack for flutter
 
 Package implements to facilitate the use of the [remixicons](https://remixicon.com) into your flutter app
 
-## 📚 Getting Started
+## 🚀 Getting Started
 
 ```shell
-$ flutter pub add remix_icons
+$ remix_icons : ^1.0.0
 ```
 
 ## 📚 Usage
